@@ -1,6 +1,6 @@
 # PacMen Exercise
 ## Description
-> This repository is to demonstrate the use of basic Javascript to animate a Pacmen. Main building blocks are array techniques and if else statements. <br>
+> A simple Pacman that chomps across the screen, demonstrating the use of basic Javascript to animate a Pacmen. Main building blocks are array techniques and if else statements. <br>
 
 ## How to Run
 There are 2 ways to run this project. Either online or locally.
